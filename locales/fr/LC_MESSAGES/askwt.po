@@ -14,7 +14,7 @@ msgstr ""
 "X-Poedit-KeywordsList: trans\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: bot_ng.py:109
+#: bot.py:109
 msgid ""
 "¡Bienvenido!\n"
 "\n"
@@ -73,11 +73,11 @@ msgstr ""
 "séquentielle, donc il se peut qu'une autre personne l'utilise en ce moment "
 "même. Soyez patient."
 
-#: bot_ng.py:118
+#: bot.py:118
 msgid "Los bots no están permitidos"
 msgstr "Les robots ne sont pas autorisés"
 
-#: bot_ng.py:146 bot_ng.py:984
+#: bot.py:146 bot.py:984
 msgid ""
 "Por favor, inténtelo de nuevo dentro de {} minutos. Así puedo controlar "
 "mejor los gastos, ya que es gratuito. Si tiene algún problema, contacte con "
@@ -86,7 +86,7 @@ msgstr ""
 "Veuillez réessayer dans {} minutes. De cette façon, je peux mieux contrôler "
 "les coûts, car c'est gratuit. En cas de problème, contactez @geiserdrums"
 
-#: bot_ng.py:259
+#: bot.py:259
 #, python-brace-format
 msgid ""
 "Has cambiado el idioma de '{0}' a '{1}'. ¿Quieres conservar tus preguntas "
@@ -97,24 +97,24 @@ msgstr ""
 "anciennes questions (dans l'ancienne langue) ou revenir aux questions par "
 "défaut dans la nouvelle langue ?"
 
-#: bot_ng.py:265
+#: bot.py:265
 msgid "Conservar preguntas anteriores"
 msgstr "Conserver les questions précédentes"
 
-#: bot_ng.py:266
+#: bot.py:266
 msgid "Reiniciar preguntas predeterminadas"
 msgstr "Réinitialiser les questions par défaut"
 
-#: bot_ng.py:269
+#: bot.py:269
 msgid "Selecciona una opción:"
 msgstr "Sélectionnez une option:"
 
-#: bot_ng.py:274
+#: bot.py:274
 #, python-brace-format
 msgid "Idioma seleccionado: {0}"
 msgstr "Langue sélectionnée: {0}"
 
-#: bot_ng.py:276 bot_ng.py:313
+#: bot.py:276 bot.py:313
 msgid ""
 "¡Bienvenido!\n"
 "\n"
@@ -173,18 +173,18 @@ msgstr ""
 "séquentielle, donc il se peut qu'une autre personne l'utilise en ce moment "
 "même, soyez patient"
 
-#: bot_ng.py:295
+#: bot.py:295
 msgid "Se conservarán tus preguntas anteriores."
 msgstr "Vos questions précédentes seront conservées."
 
-#: bot_ng.py:308
+#: bot.py:308
 msgid ""
 "Tus preguntas han sido reiniciadas a las predeterminadas en el nuevo idioma."
 msgstr ""
 "Vos questions ont été réinitialisées aux valeurs par défaut dans la nouvelle "
 "langue."
 
-#: bot_ng.py:324 bot_ng.py:326
+#: bot.py:324 bot.py:326
 msgid ""
 "¿Deseas proporcionar tu archivo de respaldo .jwlibrary? Por favor envíalo "
 "ahora. Si prefieres no hacerlo, escribe 'no'."
@@ -192,7 +192,7 @@ msgstr ""
 "Souhaitez-vous fournir votre fichier de sauvegarde .jwlibrary ? Veuillez "
 "l'envoyer maintenant. Si vous préférez ne pas le faire, tapez « non »."
 
-#: bot_ng.py:346
+#: bot.py:346
 #, python-brace-format
 msgid ""
 "Estado de tu archivo <code>.jwlibrary</code>:\n"
@@ -213,81 +213,81 @@ msgstr ""
 "<u>Les phrases soulignées:</u> {5}\n"
 "<u>Dernière modification:</u> {6}"
 
-#: bot_ng.py:356
+#: bot.py:356
 msgid "Ocurrió un error al analizar tu archivo. Continuaremos sin él."
 msgstr ""
 "Une erreur s'est produite lors de l'analyse de votre fichier. Nous "
 "continuerons sans lui."
 
-#: bot_ng.py:360
+#: bot.py:360
 msgid ""
 "Formato de archivo erróneo. Por favor, envía un archivo .jwlibrary válido."
 msgstr ""
 "Mauvais format de fichier, veuillez envoyer un fichier .jwlibrary valide."
 
-#: bot_ng.py:370
+#: bot.py:370
 msgid "De acuerdo, continuamos sin el archivo de respaldo."
 msgstr "OK, nous continuons sans le fichier de sauvegarde."
 
-#: bot_ng.py:378
+#: bot.py:378
 msgid "Seleccionar fecha"
 msgstr "Sélectionner la date"
 
-#: bot_ng.py:379
+#: bot.py:379
 msgid "Proporcionar URL"
 msgstr "Fournir l'URL"
 
-#: bot_ng.py:383 bot_ng.py:385
+#: bot.py:383 bot.py:385
 msgid "¿Deseas seleccionar una fecha o proporcionar una URL específica?"
 msgstr ""
 "Souhaitez-vous sélectionner une date ou fournir une adresse URL spécifique ?"
 
-#: bot_ng.py:508
+#: bot.py:508
 msgid "Por favor, envía la URL del artículo de La Atalaya que deseas preparar."
 msgstr ""
 "Veuillez envoyer l'URL de l'article de la Watchtower que vous souhaitez "
 "préparer."
 
-#: bot_ng.py:526
+#: bot.py:526
 #, python-brace-format
 msgid "URL guardada: {0}"
 msgstr "URL sauvegardée : {0}"
 
-#: bot_ng.py:563
+#: bot.py:563
 msgid "Por favor, elige una fecha:"
 msgstr "Veuillez choisir une date:"
 
-#: bot_ng.py:579
+#: bot.py:579
 msgid "Fecha desconocida"
 msgstr "Date inconnue"
 
-#: bot_ng.py:590
+#: bot.py:590
 #, python-brace-format
 msgid "Fecha seleccionada: {0}"
 msgstr "Date sélectionnée: {0}"
 
-#: bot_ng.py:595 bot_ng.py:899
+#: bot.py:595 bot.py:899
 msgid "Obteniendo el URL basado en la fecha seleccionada. Por favor, espera..."
 msgstr ""
 "Obtention de l'URL en fonction de la date sélectionnée. Veuillez patienter..."
 
-#: bot_ng.py:604 bot_ng.py:908
+#: bot.py:604 bot.py:908
 #, python-brace-format
 msgid "URL obtenido a partir de la fecha seleccionada: {0}"
 msgstr "URL obtenu à partir de la date sélectionnée: {0}"
 
-#: bot_ng.py:606 bot_ng.py:910
+#: bot.py:606 bot.py:910
 msgid "No se pudo obtener el URL basado en la fecha seleccionada."
 msgstr "L'URL n'a pas pu être obtenue en fonction de la date sélectionnée."
 
-#: bot_ng.py:612
+#: bot.py:612
 msgid ""
 "Una ilustración o ejemplo para explicar algún punto principal del párrafo"
 msgstr ""
 "Une illustration ou un exemple pour expliquer un point principal du "
 "paragraphe"
 
-#: bot_ng.py:613
+#: bot.py:613
 msgid ""
 "Una experiencia en concreto, aportando referencias exactas de jw.org, que "
 "esté muy relacionada con el párrafo"
@@ -295,7 +295,7 @@ msgstr ""
 "Une expérience spécifique, en fournissant des références exactes de jw.org, "
 "qui est étroitement liée au paragraphe"
 
-#: bot_ng.py:614
+#: bot.py:614
 msgid ""
 "Una explicación sobre uno de los textos que aparezcan, que aplique al "
 "párrafo. Usa la Biblia de Estudio de los Testigos de Jehová"
@@ -303,90 +303,90 @@ msgstr ""
 "Une explication de l'un des textes qui apparaissent et qui s'applique au "
 "paragraphe. Utilisez la Bible d'étude des Témoins de Jéhovah"
 
-#: bot_ng.py:632
+#: bot.py:632
 msgid "<u>Tus preguntas actuales:</u>\n"
 msgstr "<u>Vos questions actuelles:</u>\n"
 
-#: bot_ng.py:652
+#: bot.py:652
 msgid "¿Quieres personalizar las preguntas?"
 msgstr "Vous souhaitez personnaliser les questions ?"
 
-#: bot_ng.py:654
+#: bot.py:654
 msgid "Sí, quiero personalizar"
 msgstr "Oui, je veux personnaliser"
 
-#: bot_ng.py:655
+#: bot.py:655
 msgid "No, usar predeterminadas"
 msgstr "Non, utiliser les valeurs par défaut"
 
-#: bot_ng.py:683
+#: bot.py:683
 msgid "Editar preguntas"
 msgstr "Modifier les questions"
 
-#: bot_ng.py:684
+#: bot.py:684
 msgid "Eliminar preguntas"
 msgstr "Supprimer les questions"
 
-#: bot_ng.py:687
+#: bot.py:687
 msgid "¿Deseas editar o eliminar preguntas?"
 msgstr "Souhaitez-vous modifier ou supprimer des questions ?"
 
-#: bot_ng.py:716
+#: bot.py:716
 msgid "Por favor, selecciona el número de la pregunta que deseas editar:"
 msgstr ""
 "Veuillez sélectionner le numéro de la question que vous souhaitez modifier:"
 
-#: bot_ng.py:722
+#: bot.py:722
 msgid "Por favor, selecciona el número de la pregunta que deseas eliminar:"
 msgstr ""
 "Veuillez sélectionner le numéro de la question que vous souhaitez supprimer:"
 
-#: bot_ng.py:739
+#: bot.py:739
 #, python-brace-format
 msgid "Por favor, ingresa el texto para la pregunta {0}:"
 msgstr "Veuillez saisir le texte de la question {0}:"
 
-#: bot_ng.py:750
+#: bot.py:750
 msgid ""
 "No puedes eliminar la última pregunta. Debe haber al menos una pregunta."
 msgstr ""
 "Vous ne pouvez pas supprimer la dernière question. Il doit y avoir au moins "
 "une question."
 
-#: bot_ng.py:758
+#: bot.py:758
 #, python-brace-format
 msgid "Pregunta {0} eliminada correctamente."
 msgstr "La question {0} a été correctement supprimée."
 
-#: bot_ng.py:775
+#: bot.py:775
 #, python-brace-format
 msgid "Pregunta {0} guardada correctamente."
 msgstr "Question {0} enregistrée avec succès."
 
-#: bot_ng.py:783 bot_ng.py:949
+#: bot.py:783 bot.py:949
 msgid "Sí"
 msgstr "Oui"
 
-#: bot_ng.py:784 bot_ng.py:950
+#: bot.py:784 bot.py:950
 msgid "No"
 msgstr "Non"
 
-#: bot_ng.py:788 bot_ng.py:790
+#: bot.py:788 bot.py:790
 msgid "¿Deseas realizar otra acción sobre las preguntas?"
 msgstr "Souhaitez-vous donner suite aux questions?"
 
-#: bot_ng.py:815 bot_ng.py:819
+#: bot.py:815 bot.py:819
 msgid "Comenzando la preparación. Por favor, espera..."
 msgstr "Début de la préparation. Veuillez patienter..."
 
-#: bot_ng.py:895
+#: bot.py:895
 msgid ""
 "Tienes guardados una fecha y una URL. Se está tomando la fecha como valor "
 "predeterminado."
 msgstr ""
 "Vous avez enregistré une date et une URL. La date est prise par défaut."
 
-#: bot_ng.py:914
+#: bot.py:914
 msgid ""
 "Comenzando peticiones a ChatGPT. Podría tardar varios minutos dependiendo "
 "del número de preguntas que hayas configurado."
@@ -394,11 +394,11 @@ msgstr ""
 "Lancement des demandes de ChatGPT. Cette opération peut prendre plusieurs "
 "minutes en fonction du nombre de questions que vous avez configurées."
 
-#: bot_ng.py:921
+#: bot.py:921
 msgid "Aquí tienes tu fichero, impórtalo en JW Library."
 msgstr "Voici votre fichier, importez-le dans la bibliothèque JW."
 
-#: bot_ng.py:923
+#: bot.py:923
 msgid ""
 "Aquí tienes tu fichero, impórtalo en JW Library.\n"
 "Nota: Al no haber proporcionado tu copia de seguridad, hazlo con precaución, "
@@ -408,11 +408,11 @@ msgstr ""
 "Note : Comme vous n'avez pas fourni votre sauvegarde, faites-le avec "
 "prudence, vous risquez de perdre les données de votre application."
 
-#: bot_ng.py:929
+#: bot.py:929
 msgid "Aquí también encontrarás los archivos en formato Word y PDF"
 msgstr "Vous trouverez également ici les fichiers en format Word et PDF"
 
-#: bot_ng.py:938
+#: bot.py:938
 msgid ""
 "Ocurrió un error al preparar los archivos. Por favor, inténtalo de nuevo más "
 "tarde."
@@ -420,29 +420,29 @@ msgstr ""
 "Une erreur s'est produite lors de la préparation des fichiers. Veuillez "
 "réessayer plus tard."
 
-#: bot_ng.py:941
+#: bot.py:941
 msgid "No has seleccionado ninguna fecha o URL"
 msgstr "Vous n'avez pas sélectionné de date ou d'URL"
 
-#: bot_ng.py:944
+#: bot.py:944
 msgid "Todas las preguntas están vacías"
 msgstr "Toutes les questions sont vides"
 
-#: bot_ng.py:953
+#: bot.py:953
 msgid "¿Deseas preparar La Atalaya con otras preguntas u otro artículo?"
 msgstr ""
 "Voulez-vous préparer la Tour de Garde avec d'autres questions ou un autre "
 "article ?"
 
-#: bot_ng.py:994
+#: bot.py:994
 msgid "Comenzando de nuevo..."
 msgstr "Recommencer..."
 
-#: bot_ng.py:997
+#: bot.py:997
 msgid "Para ejecutar el bot nuevamente, por favor escribe /start"
 msgstr "Pour relancer le bot, tapez /start"
 
-#: bot_ng.py:1007
+#: bot.py:1007
 msgid "Operación cancelada."
 msgstr "Opération annulée."
 

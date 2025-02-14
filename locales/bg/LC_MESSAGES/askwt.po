@@ -14,7 +14,7 @@ msgstr ""
 "X-Poedit-KeywordsList: trans\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: bot_ng.py:109
+#: bot.py:109
 msgid ""
 "¡Bienvenido!\n"
 "\n"
@@ -70,11 +70,11 @@ msgstr ""
 "@geiserdrums. Ботът обслужва всеки потребител индивидуално, така че може би "
 "в момента го използва друг човек. Бъдете търпеливи."
 
-#: bot_ng.py:118
+#: bot.py:118
 msgid "Los bots no están permitidos"
 msgstr "Ботовете не са разрешени"
 
-#: bot_ng.py:146 bot_ng.py:984
+#: bot.py:146 bot.py:984
 msgid ""
 "Por favor, inténtelo de nuevo dentro de {} minutos. Así puedo controlar "
 "mejor los gastos, ya que es gratuito. Si tiene algún problema, contacte con "
@@ -84,7 +84,7 @@ msgstr ""
 "добре разходите, тъй като са безплатни. Ако имате някакви проблеми, свържете "
 "се с @geiserdrums"
 
-#: bot_ng.py:259
+#: bot.py:259
 #, python-brace-format
 msgid ""
 "Has cambiado el idioma de '{0}' a '{1}'. ¿Quieres conservar tus preguntas "
@@ -95,24 +95,24 @@ msgstr ""
 "въпроси (на стария език) или да се върнете към стандартните въпроси на новия "
 "език?"
 
-#: bot_ng.py:265
+#: bot.py:265
 msgid "Conservar preguntas anteriores"
 msgstr "Запазване на предишни въпроси"
 
-#: bot_ng.py:266
+#: bot.py:266
 msgid "Reiniciar preguntas predeterminadas"
 msgstr "Нулиране на предварително зададените въпроси"
 
-#: bot_ng.py:269
+#: bot.py:269
 msgid "Selecciona una opción:"
 msgstr "Изберете опция:"
 
-#: bot_ng.py:274
+#: bot.py:274
 #, python-brace-format
 msgid "Idioma seleccionado: {0}"
 msgstr "Избран език: {0}"
 
-#: bot_ng.py:276 bot_ng.py:313
+#: bot.py:276 bot.py:313
 msgid ""
 "¡Bienvenido!\n"
 "\n"
@@ -168,16 +168,16 @@ msgstr ""
 "@geiserdrums. Ботът обслужва всеки потребител индивидуално, така че може би "
 "в момента го използва друг човек, бъдете търпеливи"
 
-#: bot_ng.py:295
+#: bot.py:295
 msgid "Se conservarán tus preguntas anteriores."
 msgstr "Предишните ви въпроси ще бъдат запазени."
 
-#: bot_ng.py:308
+#: bot.py:308
 msgid ""
 "Tus preguntas han sido reiniciadas a las predeterminadas en el nuevo idioma."
 msgstr "Вашите въпроси бяха върнати към стандартните на новия език."
 
-#: bot_ng.py:324 bot_ng.py:326
+#: bot.py:324 bot.py:326
 msgid ""
 "¿Deseas proporcionar tu archivo de respaldo .jwlibrary? Por favor envíalo "
 "ahora. Si prefieres no hacerlo, escribe 'no'."
@@ -185,7 +185,7 @@ msgstr ""
 "Желаете ли да предоставите резервния си файл .jwlibrary? Моля, изпратете го "
 "сега. Ако предпочитате да не го правите, въведете „не“."
 
-#: bot_ng.py:346
+#: bot.py:346
 #, python-brace-format
 msgid ""
 "Estado de tu archivo <code>.jwlibrary</code>:\n"
@@ -206,75 +206,75 @@ msgstr ""
 "<u>Подчертани изречения:</u> {5}\n"
 "<u>Последна промяна:</u> {6}"
 
-#: bot_ng.py:356
+#: bot.py:356
 msgid "Ocurrió un error al analizar tu archivo. Continuaremos sin él."
 msgstr "Възникна грешка при обработката на вашия файл. Ще продължим без него."
 
-#: bot_ng.py:360
+#: bot.py:360
 msgid ""
 "Formato de archivo erróneo. Por favor, envía un archivo .jwlibrary válido."
 msgstr "Грешен файлов формат, моля изпратете валиден .jwlibrary файл."
 
-#: bot_ng.py:370
+#: bot.py:370
 msgid "De acuerdo, continuamos sin el archivo de respaldo."
 msgstr "Добре, продължаваме без резервния файл."
 
-#: bot_ng.py:378
+#: bot.py:378
 msgid "Seleccionar fecha"
 msgstr "Изберете дата"
 
-#: bot_ng.py:379
+#: bot.py:379
 msgid "Proporcionar URL"
 msgstr "Предоставете URL адрес"
 
-#: bot_ng.py:383 bot_ng.py:385
+#: bot.py:383 bot.py:385
 msgid "¿Deseas seleccionar una fecha o proporcionar una URL específica?"
 msgstr "Искате ли да изберете дата или да посочите конкретен URL адрес?"
 
-#: bot_ng.py:508
+#: bot.py:508
 msgid "Por favor, envía la URL del artículo de La Atalaya que deseas preparar."
 msgstr ""
 "Моля, изпратете URL адреса на статията от „Стражева кула“, която искате да "
 "подготвите."
 
-#: bot_ng.py:526
+#: bot.py:526
 #, python-brace-format
 msgid "URL guardada: {0}"
 msgstr "Запазен URL адрес: {0}"
 
-#: bot_ng.py:563
+#: bot.py:563
 msgid "Por favor, elige una fecha:"
 msgstr "Моля, изберете дата:"
 
-#: bot_ng.py:579
+#: bot.py:579
 msgid "Fecha desconocida"
 msgstr "Неизвестна дата"
 
-#: bot_ng.py:590
+#: bot.py:590
 #, python-brace-format
 msgid "Fecha seleccionada: {0}"
 msgstr "Избрана дата: {0}"
 
-#: bot_ng.py:595 bot_ng.py:899
+#: bot.py:595 bot.py:899
 msgid "Obteniendo el URL basado en la fecha seleccionada. Por favor, espera..."
 msgstr ""
 "Получаване на URL адреса въз основа на избраната дата. Моля, изчакайте..."
 
-#: bot_ng.py:604 bot_ng.py:908
+#: bot.py:604 bot.py:908
 #, python-brace-format
 msgid "URL obtenido a partir de la fecha seleccionada: {0}"
 msgstr "URL, получен от избраната дата: {0}"
 
-#: bot_ng.py:606 bot_ng.py:910
+#: bot.py:606 bot.py:910
 msgid "No se pudo obtener el URL basado en la fecha seleccionada."
 msgstr "URL адресът не може да бъде получен въз основа на избраната дата."
 
-#: bot_ng.py:612
+#: bot.py:612
 msgid ""
 "Una ilustración o ejemplo para explicar algún punto principal del párrafo"
 msgstr "Илюстрация или пример за обяснение на основната точка на параграфа"
 
-#: bot_ng.py:613
+#: bot.py:613
 msgid ""
 "Una experiencia en concreto, aportando referencias exactas de jw.org, que "
 "esté muy relacionada con el párrafo"
@@ -282,7 +282,7 @@ msgstr ""
 "Конкретен опит, с точни препратки от jw.org, който е тясно свързан с "
 "параграфа"
 
-#: bot_ng.py:614
+#: bot.py:614
 msgid ""
 "Una explicación sobre uno de los textos que aparezcan, que aplique al "
 "párrafo. Usa la Biblia de Estudio de los Testigos de Jehová"
@@ -290,87 +290,87 @@ msgstr ""
 "Обяснение на един от появилите се текстове, който се отнася за параграфа. "
 "Използвайте Библията за изучаване на Свидетелите на Йехова"
 
-#: bot_ng.py:632
+#: bot.py:632
 msgid "<u>Tus preguntas actuales:</u>\n"
 msgstr "<u>Настоящите ви въпроси:</u>\n"
 
-#: bot_ng.py:652
+#: bot.py:652
 msgid "¿Quieres personalizar las preguntas?"
 msgstr "Искате ли да персонализирате въпросите?"
 
-#: bot_ng.py:654
+#: bot.py:654
 msgid "Sí, quiero personalizar"
 msgstr "Да, искам да персонализирам"
 
-#: bot_ng.py:655
+#: bot.py:655
 msgid "No, usar predeterminadas"
 msgstr "Не, използвай стандартните"
 
-#: bot_ng.py:683
+#: bot.py:683
 msgid "Editar preguntas"
 msgstr "Редактиране на въпроси"
 
-#: bot_ng.py:684
+#: bot.py:684
 msgid "Eliminar preguntas"
 msgstr "Изтриване на въпроси"
 
-#: bot_ng.py:687
+#: bot.py:687
 msgid "¿Deseas editar o eliminar preguntas?"
 msgstr "Искате ли да редактирате или изтриете въпроси?"
 
-#: bot_ng.py:716
+#: bot.py:716
 msgid "Por favor, selecciona el número de la pregunta que deseas editar:"
 msgstr "Моля, изберете номера на въпроса, който искате да редактирате:"
 
-#: bot_ng.py:722
+#: bot.py:722
 msgid "Por favor, selecciona el número de la pregunta que deseas eliminar:"
 msgstr "Моля, изберете номера на въпроса, който искате да премахнете:"
 
-#: bot_ng.py:739
+#: bot.py:739
 #, python-brace-format
 msgid "Por favor, ingresa el texto para la pregunta {0}:"
 msgstr "Моля, въведете текста за въпрос {0}:"
 
-#: bot_ng.py:750
+#: bot.py:750
 msgid ""
 "No puedes eliminar la última pregunta. Debe haber al menos una pregunta."
 msgstr ""
 "Не можете да изтриете последния въпрос. Трябва да има поне един въпрос."
 
-#: bot_ng.py:758
+#: bot.py:758
 #, python-brace-format
 msgid "Pregunta {0} eliminada correctamente."
 msgstr "Въпрос {0} е отстранен правилно."
 
-#: bot_ng.py:775
+#: bot.py:775
 #, python-brace-format
 msgid "Pregunta {0} guardada correctamente."
 msgstr "Въпрос {0} е запазен успешно."
 
-#: bot_ng.py:783 bot_ng.py:949
+#: bot.py:783 bot.py:949
 msgid "Sí"
 msgstr "Да"
 
-#: bot_ng.py:784 bot_ng.py:950
+#: bot.py:784 bot.py:950
 msgid "No"
 msgstr "Не"
 
-#: bot_ng.py:788 bot_ng.py:790
+#: bot.py:788 bot.py:790
 msgid "¿Deseas realizar otra acción sobre las preguntas?"
 msgstr "Желаете ли да предприемете допълнителни действия по въпросите?"
 
-#: bot_ng.py:815 bot_ng.py:819
+#: bot.py:815 bot.py:819
 msgid "Comenzando la preparación. Por favor, espera..."
 msgstr "Започва подготовката. Моля, изчакайте..."
 
-#: bot_ng.py:895
+#: bot.py:895
 msgid ""
 "Tienes guardados una fecha y una URL. Se está tomando la fecha como valor "
 "predeterminado."
 msgstr ""
 "Имаш запазени дата и URL. Датата се приема като стойност по подразбиране."
 
-#: bot_ng.py:914
+#: bot.py:914
 msgid ""
 "Comenzando peticiones a ChatGPT. Podría tardar varios minutos dependiendo "
 "del número de preguntas que hayas configurado."
@@ -378,11 +378,11 @@ msgstr ""
 "Започване на заявки към ChatGPT. Може да отнеме няколко минути в зависимост "
 "от броя на въпросите, които сте задали."
 
-#: bot_ng.py:921
+#: bot.py:921
 msgid "Aquí tienes tu fichero, impórtalo en JW Library."
 msgstr "Това е вашият файл, импортирайте го в JW Library."
 
-#: bot_ng.py:923
+#: bot.py:923
 msgid ""
 "Aquí tienes tu fichero, impórtalo en JW Library.\n"
 "Nota: Al no haber proporcionado tu copia de seguridad, hazlo con precaución, "
@@ -392,11 +392,11 @@ msgstr ""
 "Забележка: Тъй като не сте предоставили резервно копие, направете това с "
 "повишено внимание, защото може да загубите данните на приложението си."
 
-#: bot_ng.py:929
+#: bot.py:929
 msgid "Aquí también encontrarás los archivos en formato Word y PDF"
 msgstr "Тук ще намерите и файловете в Word и PDF формат"
 
-#: bot_ng.py:938
+#: bot.py:938
 msgid ""
 "Ocurrió un error al preparar los archivos. Por favor, inténtalo de nuevo más "
 "tarde."
@@ -404,28 +404,28 @@ msgstr ""
 "При подготовката на файловете е възникнала грешка. Моля, опитайте отново по-"
 "късно."
 
-#: bot_ng.py:941
+#: bot.py:941
 msgid "No has seleccionado ninguna fecha o URL"
 msgstr "Не сте избрали дата или URL адрес"
 
-#: bot_ng.py:944
+#: bot.py:944
 msgid "Todas las preguntas están vacías"
 msgstr "Всички въпроси са празни"
 
-#: bot_ng.py:953
+#: bot.py:953
 msgid "¿Deseas preparar La Atalaya con otras preguntas u otro artículo?"
 msgstr ""
 "Искате ли да подготвите Стражевата кула с други въпроси или друга статия?"
 
-#: bot_ng.py:994
+#: bot.py:994
 msgid "Comenzando de nuevo..."
 msgstr "Започваме отново..."
 
-#: bot_ng.py:997
+#: bot.py:997
 msgid "Para ejecutar el bot nuevamente, por favor escribe /start"
 msgstr "За да стартирате отново бота, въведете /start"
 
-#: bot_ng.py:1007
+#: bot.py:1007
 msgid "Operación cancelada."
 msgstr "Операцията е отменена."
 
