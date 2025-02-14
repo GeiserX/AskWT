@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-12-30 00:10+0100\n"
+"PO-Revision-Date: 2024-12-30 00:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../../../src\n"
+"X-Poedit-KeywordsList: trans\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bot_ng.py:109
+msgid ""
+"¡Bienvenido!\n"
+"\n"
+"Este bot le ayudará a mejorar y profundizar en la preparación de <b>La "
+"Atalaya</b> usando <b>Inteligencia Artificial</b>. El modelo está "
+"personalizado por mí en OpenAI para intentar apegarse lo más posible a la "
+"realidad, pero es imposible que todas las respuestas sean correctas y sin "
+"alucinaciones.\n"
+"\n"
+"El bot funciona respondiendo a las preguntas que le dictes. Es decir: si en "
+"la pregunta 1 le solicitas que te explique algún punto del párrafo con una "
+"ilustración, lo que hará será contestar a la pregunta del/los párrafo(s) de "
+"La Atalaya e introducirla en el recuadro de texto habilitado para ello.\n"
+"\n"
+"Más adelante <b>se te sugerirá enviar tu archivo de respaldo de .jwlibrary "
+"para no perder ninguna información en tu dispositivo</b>. Esto es "
+"particularmente importante ya que al restaurar el archivo .jwlibrary que se "
+"genera, tus notas y marcas que tenías anteriormente en la aplicación se "
+"perderán. Recomendamos, además, que el artículo de estudio que quieras "
+"prepararte esté vacío en tu dispositivo para evitar incongruencias.\n"
+"\n"
+"Esta aplicación no es oficial ni está afiliada de ningún modo con JW.ORG.\n"
+"\n"
+"Si el bot tarda en responder, espera unos minutos y contacta con "
+"@geiserdrums. El bot sirve a cada usuario individualmente de manera "
+"secuencial, con lo que quizá lo esté usando otra persona en este mismo "
+"instante. Sé paciente."
+msgstr ""
+"Bem-vindo!\n"
+"\n"
+"Este bot irá ajudá-lo a melhorar e aprofundar na preparação de <b>A "
+"Sentinela</b> usando <b>Inteligência Artificial</b>. O modelo foi "
+"personalizado por mim na OpenAI para tentar se apegar o máximo possível à "
+"realidade, mas é impossível que todas as respostas sejam corretas e sem "
+"alucinações.\n"
+"\n"
+"O bot funciona respondendo às perguntas que você ditar. Ou seja: se na "
+"pergunta 1 você solicitar que ele explique algum ponto do parágrafo com uma "
+"ilustração, o que ele fará será responder à pergunta do(s) parágrafo(s) de A "
+"Sentinela e introduzi-la na caixa de texto habilitada para isso.\n"
+"\n"
+"Mais adiante <b>será sugerido que você envie seu arquivo de backup ."
+"jwlibrary para não perder nenhuma informação em seu dispositivo</b>. Isso é "
+"particularmente importante, pois ao restaurar o arquivo .jwlibrary que é "
+"gerado, suas notas e marcas que você tinha anteriormente no aplicativo serão "
+"perdidas. Recomendamos, além disso, que o artigo de estudo que você deseja "
+"preparar esteja vazio em seu dispositivo para evitar incongruências.\n"
+"\n"
+"Este aplicativo não é oficial nem está afiliado de nenhuma forma com JW."
+"ORG.\n"
+"\n"
+"Se o bot demorar a responder, aguarde alguns minutos e entre em contato com "
+"@geiserdrums. O bot atende a cada usuário individualmente de forma "
+"sequencial, então talvez outra pessoa esteja usando neste exato momento. "
+"Seja paciente."
+
+#: bot_ng.py:118
+msgid "Los bots no están permitidos"
+msgstr "Bots não são permitidos"
+
+#: bot_ng.py:146 bot_ng.py:984
+msgid ""
+"Por favor, inténtelo de nuevo dentro de {} minutos. Así puedo controlar "
+"mejor los gastos, ya que es gratuito. Si tiene algún problema, contacte con "
+"@geiserdrums"
+msgstr ""
+"Tente novamente em {} minutos. Dessa forma, posso controlar melhor os "
+"custos, pois é gratuito. Se tiver algum problema, entre em contato com "
+"@geiserdrums"
+
+#: bot_ng.py:259
+#, python-brace-format
+msgid ""
+"Has cambiado el idioma de '{0}' a '{1}'. ¿Quieres conservar tus preguntas "
+"anteriores (en el antiguo idioma) o reiniciar a las preguntas "
+"predeterminadas en el nuevo idioma?"
+msgstr ""
+"Você alterou o idioma de “{0}” para “{1}”. Deseja manter as perguntas "
+"antigas (no idioma antigo) ou redefinir para as perguntas padrão no novo "
+"idioma?"
+
+#: bot_ng.py:265
+msgid "Conservar preguntas anteriores"
+msgstr "Manter perguntas anteriores"
+
+#: bot_ng.py:266
+msgid "Reiniciar preguntas predeterminadas"
+msgstr "Redefinir perguntas padrão"
+
+#: bot_ng.py:269
+msgid "Selecciona una opción:"
+msgstr "Selecione uma opção:"
+
+#: bot_ng.py:274
+#, python-brace-format
+msgid "Idioma seleccionado: {0}"
+msgstr "Idioma selecionado: {0}"
+
+#: bot_ng.py:276 bot_ng.py:313
+msgid ""
+"¡Bienvenido!\n"
+"\n"
+"Este bot le ayudará a mejorar y profundizar en la preparación de <b>La "
+"Atalaya</b> usando <b>Inteligencia Artificial</b>. El modelo está "
+"personalizado por mí en OpenAI para intentar apegarse lo más posible a la "
+"realidad, pero es imposible que todas las respuestas sean correctas y sin "
+"alucinaciones.\n"
+"\n"
+"El bot funciona respondiendo a las preguntas que le dictes. Es decir: si en "
+"la pregunta 1, le solicitas que te explique algún punto del párrafo con una "
+"ilustración, lo que hará será contestar a la pregunta de el/los párrafo(s) "
+"de la Atalaya, e introducirla en el recuadro de texto habilitado para ello.\n"
+"\n"
+"Más adelante <b>se le sugerirá enviar su archivo de respaldo de .jwlibrary "
+"para no perder ninguna información en su dispositivo</b>. Esto es "
+"particularmente importante, ya que al restaurar el archivo .jwlibrary que se "
+"genera, sus notas y marcas que tenía anteriormente en la aplicación, se "
+"perderán. Recomendamos, además, que el artículo de estudio que quiera "
+"prepararse esté vacío en su dispositivo, para evitar incongruencias.\n"
+"\n"
+"Esta aplicación no es oficial ni está afiliada de ningún modo con JW.ORG\n"
+"\n"
+"Si el bot tardara en responder, espere unos minutos y contacte con "
+"@geiserdrums. El bot sirve a cada usuario individualmente de manera "
+"secuencial, con lo que quizá lo esté usando otra persona en este mismo "
+"instante, sea paciente"
+msgstr ""
+"Bem-vindo!\n"
+"\n"
+"Este bot irá ajudá-lo a melhorar e aprofundar na preparação de <b>A "
+"Sentinela</b> usando <b>Inteligência Artificial</b>. O modelo foi "
+"personalizado por mim na OpenAI para tentar se apegar o máximo possível à "
+"realidade, mas é impossível que todas as respostas sejam corretas e sem "
+"alucinações.\n"
+"\n"
+"O bot funciona respondendo às perguntas que você ditar. Ou seja: se na "
+"pergunta 1, você solicitar que ele explique algum ponto do parágrafo com uma "
+"ilustração, o que ele fará será responder à pergunta do(s) parágrafo(s) da "
+"Sentinela e introduzi-la na caixa de texto habilitada para isso.\n"
+"\n"
+"Mais adiante <b>será sugerido enviar seu arquivo de backup .jwlibrary para "
+"não perder nenhuma informação em seu dispositivo</b>. Isso é particularmente "
+"importante, pois ao restaurar o arquivo .jwlibrary que é gerado, suas notas "
+"e marcas que você tinha anteriormente no aplicativo serão perdidas. "
+"Recomendamos, além disso, que o artigo de estudo que você deseja preparar "
+"esteja vazio em seu dispositivo, para evitar incongruências.\n"
+"\n"
+"Este aplicativo não é oficial nem está afiliado de nenhuma forma com JW.ORG\n"
+"\n"
+"Se o bot demorar a responder, aguarde alguns minutos e entre em contato com "
+"@geiserdrums. O bot atende a cada usuário individualmente de forma "
+"sequencial, então talvez outra pessoa esteja usando neste exato momento, "
+"seja paciente"
+
+#: bot_ng.py:295
+msgid "Se conservarán tus preguntas anteriores."
+msgstr "Suas perguntas anteriores serão mantidas."
+
+#: bot_ng.py:308
+msgid ""
+"Tus preguntas han sido reiniciadas a las predeterminadas en el nuevo idioma."
+msgstr "Suas perguntas foram redefinidas para os padrões no novo idioma."
+
+#: bot_ng.py:324 bot_ng.py:326
+msgid ""
+"¿Deseas proporcionar tu archivo de respaldo .jwlibrary? Por favor envíalo "
+"ahora. Si prefieres no hacerlo, escribe 'no'."
+msgstr ""
+"Deseja fornecer seu arquivo de backup .jwlibrary? Por favor, envie-o agora. "
+"Se preferir não enviar, digite 'não'."
+
+#: bot_ng.py:346
+#, python-brace-format
+msgid ""
+"Estado de tu archivo <code>.jwlibrary</code>:\n"
+"<u>Notas:</u> {0}\n"
+"<u>Tags individuales:</u> {1}\n"
+"<u>Notas con tags:</u> {2}\n"
+"<u>Escritos en cuadros de texto:</u> {3}\n"
+"<u>Favoritos:</u> {4}\n"
+"<u>Frases subrayadas:</u> {5}\n"
+"<u>Última vez modificado:</u> {6}"
+msgstr ""
+"Status do seu arquivo <code>.jwlibrary</code>:\n"
+"<u>Notas:</u> {0}\n"
+"<u>Etiquetas individuais:</u> {1}\n"
+"<u>Notas marcadas:</u> {2}\n"
+"<u>Escritos em caixas de texto:</u> {3}\n"
+"<u>Favoritos:</u> {4}\n"
+"<u>Frases sublinhadas:</u> {5}\n"
+"<u>Última modificação:</u> {6}"
+
+#: bot_ng.py:356
+msgid "Ocurrió un error al analizar tu archivo. Continuaremos sin él."
+msgstr "Ocorreu um erro ao analisar seu arquivo. Continuaremos sem ele."
+
+#: bot_ng.py:360
+msgid ""
+"Formato de archivo erróneo. Por favor, envía un archivo .jwlibrary válido."
+msgstr "Formato de arquivo incorreto, envie um arquivo .jwlibrary válido."
+
+#: bot_ng.py:370
+msgid "De acuerdo, continuamos sin el archivo de respaldo."
+msgstr "OK, continuaremos sem o arquivo de backup."
+
+#: bot_ng.py:378
+msgid "Seleccionar fecha"
+msgstr "Selecione a data"
+
+#: bot_ng.py:379
+msgid "Proporcionar URL"
+msgstr "Fornecer URL"
+
+#: bot_ng.py:383 bot_ng.py:385
+msgid "¿Deseas seleccionar una fecha o proporcionar una URL específica?"
+msgstr "Deseja selecionar uma data ou fornecer um URL específico?"
+
+#: bot_ng.py:508
+msgid "Por favor, envía la URL del artículo de La Atalaya que deseas preparar."
+msgstr ""
+"Por favor, envie o URL do artigo da Watchtower que você deseja preparar."
+
+#: bot_ng.py:526
+#, python-brace-format
+msgid "URL guardada: {0}"
+msgstr "URL salvo: {0}"
+
+#: bot_ng.py:563
+msgid "Por favor, elige una fecha:"
+msgstr "Por favor, escolha uma data:"
+
+#: bot_ng.py:579
+msgid "Fecha desconocida"
+msgstr "Data desconhecida"
+
+#: bot_ng.py:590
+#, python-brace-format
+msgid "Fecha seleccionada: {0}"
+msgstr "Data selecionada: {0}"
+
+#: bot_ng.py:595 bot_ng.py:899
+msgid "Obteniendo el URL basado en la fecha seleccionada. Por favor, espera..."
+msgstr "Obtendo o URL com base na data selecionada. Por favor, aguarde..."
+
+#: bot_ng.py:604 bot_ng.py:908
+#, python-brace-format
+msgid "URL obtenido a partir de la fecha seleccionada: {0}"
+msgstr "URL obtido a partir da data selecionada: {0}"
+
+#: bot_ng.py:606 bot_ng.py:910
+msgid "No se pudo obtener el URL basado en la fecha seleccionada."
+msgstr "O URL não pôde ser obtido com base na data selecionada."
+
+#: bot_ng.py:612
+msgid ""
+"Una ilustración o ejemplo para explicar algún punto principal del párrafo"
+msgstr ""
+"Uma ilustração ou exemplo para explicar um ponto principal do parágrafo"
+
+#: bot_ng.py:613
+msgid ""
+"Una experiencia en concreto, aportando referencias exactas de jw.org, que "
+"esté muy relacionada con el párrafo"
+msgstr ""
+"Uma experiência específica, fornecendo referências exatas do site jw.org, "
+"que esteja intimamente relacionada ao parágrafo"
+
+#: bot_ng.py:614
+msgid ""
+"Una explicación sobre uno de los textos que aparezcan, que aplique al "
+"párrafo. Usa la Biblia de Estudio de los Testigos de Jehová"
+msgstr ""
+"Uma explicação de um dos textos que aparece e que se aplica ao parágrafo. "
+"Use a Bíblia de Estudo das Testemunhas de Jeová"
+
+#: bot_ng.py:632
+msgid "<u>Tus preguntas actuales:</u>\n"
+msgstr "<u>Suas perguntas atuais:</u>\n"
+
+#: bot_ng.py:652
+msgid "¿Quieres personalizar las preguntas?"
+msgstr "Você deseja personalizar as perguntas?"
+
+#: bot_ng.py:654
+msgid "Sí, quiero personalizar"
+msgstr "Sim, quero personalizar"
+
+#: bot_ng.py:655
+msgid "No, usar predeterminadas"
+msgstr "Não, use os padrões"
+
+#: bot_ng.py:683
+msgid "Editar preguntas"
+msgstr "Editar perguntas"
+
+#: bot_ng.py:684
+msgid "Eliminar preguntas"
+msgstr "Excluir perguntas"
+
+#: bot_ng.py:687
+msgid "¿Deseas editar o eliminar preguntas?"
+msgstr "Deseja editar ou excluir perguntas?"
+
+#: bot_ng.py:716
+msgid "Por favor, selecciona el número de la pregunta que deseas editar:"
+msgstr "Selecione o número da pergunta que deseja editar:"
+
+#: bot_ng.py:722
+msgid "Por favor, selecciona el número de la pregunta que deseas eliminar:"
+msgstr "Selecione o número da pergunta que deseja remover:"
+
+#: bot_ng.py:739
+#, python-brace-format
+msgid "Por favor, ingresa el texto para la pregunta {0}:"
+msgstr "Digite o texto da pergunta {0}:"
+
+#: bot_ng.py:750
+msgid ""
+"No puedes eliminar la última pregunta. Debe haber al menos una pregunta."
+msgstr ""
+"Não é possível excluir a última pergunta. Deve haver pelo menos uma pergunta."
+
+#: bot_ng.py:758
+#, python-brace-format
+msgid "Pregunta {0} eliminada correctamente."
+msgstr "Pergunta {0} corretamente removida."
+
+#: bot_ng.py:775
+#, python-brace-format
+msgid "Pregunta {0} guardada correctamente."
+msgstr "Pergunta {0} salva com sucesso."
+
+#: bot_ng.py:783 bot_ng.py:949
+msgid "Sí"
+msgstr "Sim"
+
+#: bot_ng.py:784 bot_ng.py:950
+msgid "No"
+msgstr "Não"
+
+#: bot_ng.py:788 bot_ng.py:790
+msgid "¿Deseas realizar otra acción sobre las preguntas?"
+msgstr "Deseja tomar outras medidas com relação às perguntas?"
+
+#: bot_ng.py:815 bot_ng.py:819
+msgid "Comenzando la preparación. Por favor, espera..."
+msgstr "Iniciando a preparação. Por favor, aguarde..."
+
+#: bot_ng.py:895
+msgid ""
+"Tienes guardados una fecha y una URL. Se está tomando la fecha como valor "
+"predeterminado."
+msgstr ""
+"Você salvou uma data e um URL. A data está sendo considerada como padrão."
+
+#: bot_ng.py:914
+msgid ""
+"Comenzando peticiones a ChatGPT. Podría tardar varios minutos dependiendo "
+"del número de preguntas que hayas configurado."
+msgstr ""
+"Iniciar as solicitações do ChatGPT. Isso pode levar vários minutos, "
+"dependendo do número de perguntas que você tiver configurado."
+
+#: bot_ng.py:921
+msgid "Aquí tienes tu fichero, impórtalo en JW Library."
+msgstr "Aqui está seu arquivo, importe-o para a JW Library."
+
+#: bot_ng.py:923
+msgid ""
+"Aquí tienes tu fichero, impórtalo en JW Library.\n"
+"Nota: Al no haber proporcionado tu copia de seguridad, hazlo con precaución, "
+"puedes perder tus datos de la app."
+msgstr ""
+"Aqui está seu arquivo, importe-o para a JW Library.\n"
+"Observação: como você não forneceu seu backup, faça isso com cuidado, pois "
+"você pode perder os dados do aplicativo."
+
+#: bot_ng.py:929
+msgid "Aquí también encontrarás los archivos en formato Word y PDF"
+msgstr "Aqui você também encontrará os arquivos em formato Word e PDF"
+
+#: bot_ng.py:938
+msgid ""
+"Ocurrió un error al preparar los archivos. Por favor, inténtalo de nuevo más "
+"tarde."
+msgstr "Ocorreu um erro ao preparar os arquivos. Tente novamente mais tarde."
+
+#: bot_ng.py:941
+msgid "No has seleccionado ninguna fecha o URL"
+msgstr "Você não selecionou uma data ou URL"
+
+#: bot_ng.py:944
+msgid "Todas las preguntas están vacías"
+msgstr "Todas as perguntas estão vazias"
+
+#: bot_ng.py:953
+msgid "¿Deseas preparar La Atalaya con otras preguntas u otro artículo?"
+msgstr ""
+"Você gostaria de preparar A Sentinela com outras perguntas ou outro artigo?"
+
+#: bot_ng.py:994
+msgid "Comenzando de nuevo..."
+msgstr "Começando de novo..."
+
+#: bot_ng.py:997
+msgid "Para ejecutar el bot nuevamente, por favor escribe /start"
+msgstr "Para executar o bot novamente, digite /start"
+
+#: bot_ng.py:1007
+msgid "Operación cancelada."
+msgstr "Operação cancelada."
+
+#: core_worker.py:127
+#, python-brace-format
+msgid ""
+"Eres un asistente que únicamente usa jw.org y las publicaciones de los "
+"Testigos de Jehová para mejorar la preparación de reuniones.\n"
+"Yo estoy preparándome la Atalaya, edición de estudio, de los Testigos de "
+"Jehová.\n"
+"Proveerás información extra proveniente de la literatura disponible en cada "
+"uno de los párrafos que te voy a ir mandando en los sucesivos prompts.\n"
+"La Atalaya de esta semana se titula {title}, se basa en el texto de "
+"{base_text}, cantaremos la '{song}', y el resumen es el siguiente:\n"
+"{summary}\n"
+"Para cada pregunta y párrafo o párrafos que te vaya enviando a partir de "
+"ahora, responderás en una lista lo siguiente:\n"
+"{questions_text}\n"
+"No escribas estas preguntas de nuevo en la respuesta. Separa las respuestas "
+"con dos retornos de carro."
+msgstr ""
+"Você é um assistente que usa apenas jw.org e as publicações das Testemunhas "
+"de Jeová para melhorar a preparação de reuniões.\n"
+"Estou me preparando para a Atalaia, edição de estudo, das Testemunhas de "
+"Jeová. Você fornecerá informações extras provenientes da literatura "
+"disponível em cada um dos parágrafos que vou enviar nos próximos prompts.\n"
+"A Atalaia desta semana se intitula {title}, baseia-se no texto de "
+"{base_text}, cantaremos a '{song}', e o resumo é o seguinte:  \n"
+"{summary}  \n"
+"Para cada pergunta e parágrafo ou parágrafos que eu enviar a partir de "
+"agora, você responderá em uma lista o seguinte:  \n"
+"{questions_text}  \n"
+"Não escreva essas perguntas novamente na resposta. Separe as respostas com "
+"dois retornos de carro."
+
+#: core_worker.py:163
+#, python-brace-format
+msgid "Pregunta: {question} -- Párrafo(s): {paragraphs}"
+msgstr "Pergunta: {question} -- Parágrafo(s): {paragraphs}"
